@@ -30,7 +30,7 @@ git clone https://github.com/yourusername/venv-manager.git
 cd venv-manager
 ```
 
-2. Change file permission makint it executable:
+2. Change file permission making it executable:
 ```bash
 chmod +x venv-manager.py
 ```
